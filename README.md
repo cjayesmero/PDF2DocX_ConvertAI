@@ -1,6 +1,7 @@
 # 📄 AI-Powered PDF to DOCX Converter
 
 A robust, AI-driven tool that extracts text from PDF documents and converts them into clean, unformatted DOCX files using Google's Gemini AI models.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/PDF-to-DOCX-Gemini/blob/main/PDF2DocX_ConvertAI.ipynb)
 
 ## 🌟 Features
