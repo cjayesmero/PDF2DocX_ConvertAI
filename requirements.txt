@@ -1,0 +1,1 @@
+google-generativeai>=0.3.2python-docx>=0.8.11ipywidgets>=8.0.0jupyterlab>=4.0.0

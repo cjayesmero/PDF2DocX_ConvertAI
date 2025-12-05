@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+.DS_Store
+Thumbs.db
+*.docx
+*_converted.docx
+*.pdf
+# !sample.pdf  # Uncomment if you want to keep sample
